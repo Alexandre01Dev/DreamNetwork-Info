@@ -23,4 +23,4 @@ The beta now is `closed` 🛑
 <img src="https://i.imgur.com/8sb5BAV.png" width="250px">
 <img src="https://i.imgur.com/ETKDDwg.png" width="250px">
 
-# Bye!
+# See you soon! ✌
