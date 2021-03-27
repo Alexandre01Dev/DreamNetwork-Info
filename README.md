@@ -3,7 +3,7 @@
 ## Beta Status
 The beta now is `closed` 🛑
 <br/> 
-*If you want to integrate this close beta, please write to <a href="mailto:enertix.pro@gmail.com" target="_BLANK">enertix.pro@gmail.com</a>
+*If you want to integrate this closed beta, please write to <a href="mailto:enertix.pro@gmail.com" target="_BLANK">enertix.pro@gmail.com</a>
 
 ## Release Status
 <ul>
