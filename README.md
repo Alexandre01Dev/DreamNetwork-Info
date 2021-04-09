@@ -1,5 +1,13 @@
 # Welcome on the DreamNetwork Information Repo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## What's DreamNetwork?
+DreamNetwork is a software to create powerful and reliable Minecraft networks, but not only! With DreamNetwork, manage your server simply but efficiently from any device with the PC and smartphone applications! <br/><br/>
+<i>You don't know what a Minecraft Network is or why you should have one?</i>
+<br/>
+• A Network is a system that allows you to manage multiple instances of your server, and automate and facilitate the development of mini-game servers, UHC, factions and many more!
+All the biggest Minecraft servers use networks to improve performance and reliability, so why not you?
+
+
 ## Beta Status
 The beta now is `closed` 🛑
 <br/> 
