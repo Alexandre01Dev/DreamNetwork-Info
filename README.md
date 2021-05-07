@@ -31,4 +31,7 @@ The beta now is `closed` 🛑
 <img src="https://i.imgur.com/8sb5BAV.png" width="250px">
 <img src="https://i.imgur.com/ETKDDwg.png" width="250px">
 
+### DreamNetwork Status
+<a href="https://status.dreamnetwork.cloud" target="_BLANK">Here!</a>
+
 # See you soon! ✌
