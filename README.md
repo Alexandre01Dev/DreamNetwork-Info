@@ -15,7 +15,7 @@ The beta now is `closed` 🛑
 
 ## Release Status
 <ul>
-  <li>DreamNetwork Core: <code>~59%</code> <i>Working on it</i> 📚</li>
+  <li>DreamNetwork Core: <code>~60%</code> <i>Working on it</i> 📚</li>
   <li>DreamNetwork Front: <code>~50%</code> <i>Working on it</i> 📚</li>
   <li>DreamNetwork App: <code>~5%</code> <i>Waiting</i> ⏰</li>
   <li>DreamNetwork API: <code>~25%</code> <i>Waiting</i> ⏰</li>
